@@ -1,0 +1,2 @@
+Video accompanying the paper "Hybrid Adaptive Vision-Force Control under the Bottleneck Constraint"
+Contains experiments conducted to validate the performance of the proposed method.
